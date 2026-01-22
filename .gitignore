@@ -12,20 +12,7 @@ ENV/
 
 
 # Secrets / local config
-config/main_config.yaml
 .env
-
-# Generated RVISA stage-1 outputs
-data/preprocessed/*_rvisa_*.pkl
-data/preprocessed/*_rvisa_*.jsonl
-data/preprocessed/*_rvisa_*.bak*
-
-# Local/experimental datasets (do not commit)
-data/social/
-
-# Paper artifacts (do not commit)
-*.pdf
-paper_extracted.txt
 
 
 

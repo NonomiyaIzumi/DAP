@@ -1,0 +1,4221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<sentences>
+    <sentence id="1">
+        <text>Update xong app hết lag luôn 😭🙏</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="positive" from="12" to="15" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="2">
+        <text>Camera chụp đêm ổn áp phết 📸✨</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="positive" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="3">
+        <text>Pin tụt 20% trong 10 phút... chịu 😵</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="negative" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="4">
+        <text>Ship tới sớm hơn dự kiến, nice 👍 #happy</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="positive" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="5">
+        <text>CSKH trả lời kiểu copy paste, nản thật sự...</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="6">
+        <text>Bàn phím gõ cũng được, không có gì wow.</text>
+        <aspectTerms>
+            <aspectTerm term="bàn phím" polarity="neutral" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="7">
+        <text>Bản cập nhật mới xóa mất tính năng mình dùng mỗi ngày 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="negative" from="4" to="12" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="8">
+        <text>Loa nghe rõ kể cả bật nhỏ 🎧</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="9">
+        <text>Nhận hàng mà seal rách toang, hơi rén 😬</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="10">
+        <text>Giá vậy là hợp lý đó chứ.</text>
+        <aspectTerms>
+            <aspectTerm term="giá" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="11">
+        <text>Login được nhưng UI nhìn rối quá :/</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="neutral" from="17" to="19" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="12">
+        <text>Mở Maps phát máy nóng như lò 🤡</text>
+        <aspectTerms>
+            <aspectTerm term="nhiệt" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="13">
+        <text>Shop rep tin nhắn nhanh ghê, 10 điểm.</text>
+        <aspectTerms>
+            <aspectTerm term="người bán" polarity="positive" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="14">
+        <text>Thông báo delay kiểu... giờ mới hiện, chịu luôn 😑</text>
+        <aspectTerms>
+            <aspectTerm term="thông báo" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="15">
+        <text>Màn hình đủ sáng ngoài trời, ok nha 🌞</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="16">
+        <text>Mic hút ồn nền quá trời, call mệt 😩</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="17">
+        <text>Ship 1 tuần, cũng bình thường thôi.</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="neutral" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="18">
+        <text>Tai nghe cứ lên tàu là mất kết nối 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="19">
+        <text>Đồng hồ đo chạy bộ khá chuẩn 🏃</text>
+        <aspectTerms>
+            <aspectTerm term="theo dõi" polarity="positive" from="0" to="0" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="20">
+        <text>Cụm cam lồi để lên bàn cứ lắc lắc...</text>
+        <aspectTerms>
+            <aspectTerm term="thiết kế" polarity="neutral" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="21">
+        <text>CSKH xử lý gọn lẹ, khỏi drama 👌</text>
+        <aspectTerms>
+            <aspectTerm term="chăm sóc khách hàng" polarity="positive" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="22">
+        <text>Quạt laptop hú như máy bay ✈️</text>
+        <aspectTerms>
+            <aspectTerm term="quạt" polarity="negative" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="23">
+        <text>Cài đặt nhanh gọn, khỏi đọc hướng dẫn 😄</text>
+        <aspectTerms>
+            <aspectTerm term="cài đặt" polarity="positive" from="0" to="7" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="24">
+        <text>Cục sạc hơi nóng nhưng vẫn dùng được.</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="neutral" from="4" to="7" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="25">
+        <text>Hoàn tiền về nhanh, bất ngờ luôn 💸</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="positive" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="26">
+        <text>Giá gói thuê bao lại tăng nữa rồi...</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="negative" from="8" to="16" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="27">
+        <text>Hiệu năng ổn cho lướt mạng thôi.</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="neutral" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="28">
+        <text>Mở hộp thiếu phụ kiện, bực mình 😤</text>
+        <aspectTerms>
+            <aspectTerm term="phụ kiện" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="29">
+        <text>Ốp lưng vừa khít, đẹp xịn 😍</text>
+        <aspectTerms>
+            <aspectTerm term="ốp lưng" polarity="positive" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="30">
+        <text>App ngày nào cũng popup xin 5 sao, khó chịu thật 🤨</text>
+        <aspectTerms>
+            <aspectTerm term="popup" polarity="negative" from="18" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="31">
+        <text>Tính năng mới nhìn chung ổn, chưa có gì để khen/chê.</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="neutral" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="32">
+        <text>Giao diện dark mode nhìn đã mắt 😎</text>
+        <aspectTerms>
+            <aspectTerm term="dark mode" polarity="positive" from="10" to="19" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="33">
+        <text>Mạng Wi-Fi bắt yếu, đứng sát router mới ăn 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="34">
+        <text>Mua sale nên thấy đáng tiền #deal 🛒</text>
+        <aspectTerms>
+            <aspectTerm term="giá" polarity="positive" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="35">
+        <text>Ảnh chụp góc này xịn thiệt 😍</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="36">
+        <text>Ánh sáng đẹp quá trời ơi ✨</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="positive" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="37">
+        <text>Filter hơi quá tay nha 😅</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="38">
+        <text>Caption dễ thương ghê 🥹</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="positive" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="39">
+        <text>Ủa sao ảnh mờ vậy, lấy nét đâu rồi 🤨</text>
+        <aspectTerms>
+            <aspectTerm term="chất lượng" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="40">
+        <text>Màu da nhìn ảo ma canada 😬</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="41">
+        <text>Bố cục cũng ổn, nhưng nền hơi rối.</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="neutral" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="42">
+        <text>Video cut nhịp cuốn phết 👏</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="positive" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="43">
+        <text>Âm thanh rõ, không bị rè 👍</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="44">
+        <text>Nội dung ok nhưng hơi dài, coi tới đoạn cuối hơi đuối 😴</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="45">
+        <text>Video giật lag như phim kinh dị 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="mượt mà" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="46">
+        <text>Thumbnail nhìn clickbait ghê á 😑</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="47">
+        <text>Voiceover nghe dễ chịu, kể chuyện hay 🫶</text>
+        <aspectTerms>
+            <aspectTerm term="giọng" polarity="positive" from="0" to="0" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="48">
+        <text>Wow, chất lượng đỉnh quá ha 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="chất lượng" polarity="negative" from="5" to="15" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="49">
+        <text>Hay dữ ta, xem xong muốn xem lại liền... (không) 😐</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="50">
+        <text>Đẹp quá trời, nhìn mà 'muốn' khóc luôn 😭 (mỉa)</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="51">
+        <text>Cười xỉu, nội dung tinh tế ghê cơ 🤡</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="negative" from="10" to="18" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="52">
+        <text>Ủa tưởng clip hài, ai dè hài thật... hài ở mình 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="53">
+        <text>Đỉnh của chóp, xem mà chill lắm 😌</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="positive" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="54">
+        <text>Tự nhiên thấy kịch bản hôm nay ổn hơn hẳn 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="55">
+        <text>Clip edit ổn áp nha 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="56">
+        <text>hỗ trợ tệ quá 😤 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="negative" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="57">
+        <text>Đỉnh quá ha, hiệu năng ngon ghê 🙃 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="58">
+        <text>thumbnail cũng... vậy thôi 😶 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="59">
+        <text>video ngon nha 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="positive" from="0" to="5" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="60">
+        <text>pin làm mình muốn khóc 😑 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="negative" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="61">
+        <text>Clip edit đỉnh nha ✨</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="positive" from="0" to="0" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="62">
+        <text>Thumbnail nhìn clickbait ghê 😑 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="positive" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="63">
+        <text>Đỉnh quá ha, ảnh đáng tiền ghê 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="negative" from="13" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="64">
+        <text>Đỉnh quá ha, hoàn tiền mượt ghê 🙃 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="65">
+        <text>Tự nhiên thấy hỗ trợ hôm nay ổn hơn hẳn 👌</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="positive" from="14" to="20" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="66">
+        <text>Đỉnh quá ha, bố cục xịn ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="negative" from="13" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="67">
+        <text>sạc cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="68">
+        <text>micro làm mình muốn khóc 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="negative" from="0" to="5" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="69">
+        <text>wifi bình thường 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="neutral" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="70">
+        <text>kịch bản làm mình muốn khóc 😑 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="71">
+        <text>filter tệ quá 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="negative" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="72">
+        <text>video làm mình muốn khóc 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="negative" from="0" to="5" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="73">
+        <text>Tự nhiên thấy hoàn tiền hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="74">
+        <text>màn hình cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="75">
+        <text>giao hàng làm mình muốn khóc 😑 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="76">
+        <text>hiệu năng làm mình muốn khóc 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="77">
+        <text>đóng gói ngon nha 👍</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="78">
+        <text>Ánh sáng ngon mà màu hơi tạm. #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="neutral" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="79">
+        <text>hiệu năng ngon nha 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="80">
+        <text>Tự nhiên thấy giao hàng hôm nay ổn hơn hẳn 😄</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="81">
+        <text>thuê bao làm mình muốn khóc 😤 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="82">
+        <text>Đỉnh quá ha, hỗ trợ xịn ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="negative" from="13" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="83">
+        <text>thumbnail tệ quá 🫠 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="negative" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="84">
+        <text>đóng gói làm mình muốn khóc 😩</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="85">
+        <text>wifi cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="neutral" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="86">
+        <text>Đỉnh quá ha, tính năng đỉnh ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="87">
+        <text>Đỉnh quá ha, ui đáng tiền ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="negative" from="13" to="15" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="88">
+        <text>màn hình tệ quá 😩</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="negative" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="89">
+        <text>loa tệ quá 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="negative" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="90">
+        <text>Đỉnh quá ha, micro đỉnh ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="negative" from="13" to="18" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="91">
+        <text>kịch bản làm mình muốn khóc 😤 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="92">
+        <text>camera cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="93">
+        <text>Đỉnh quá ha, hỗ trợ xịn ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="negative" from="13" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="94">
+        <text>hỗ trợ tệ quá 😑 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="negative" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="95">
+        <text>Thumbnail nhìn clickbait ghê 😑</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="neutral" from="0" to="0" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="96">
+        <text>hỗ trợ bình thường 😶 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="neutral" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="97">
+        <text>Nội dung ổn nhưng hơi nhạt 😅 #feedback (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="negative" from="0" to="0" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="98">
+        <text>wifi ngon nha 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="99">
+        <text>ui cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="neutral" from="0" to="2" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="100">
+        <text>Tự nhiên thấy giao hàng hôm nay ổn hơn hẳn 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="101">
+        <text>pin tệ quá 😤 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="negative" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="102">
+        <text>camera bình thường 😶</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="neutral" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="103">
+        <text>Tự nhiên thấy ánh sáng hôm nay ổn hơn hẳn 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="104">
+        <text>ui tệ quá 😑 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="negative" from="0" to="2" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="105">
+        <text>Đỉnh quá ha, sạc xịn ghê 🙃 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="negative" from="13" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="106">
+        <text>ánh sáng cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="107">
+        <text>filter ngon nha 👌</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="positive" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="108">
+        <text>Tự nhiên thấy đóng gói hôm nay ổn hơn hẳn 😄</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="109">
+        <text>pin cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="110">
+        <text>màn hình cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="111">
+        <text>sạc làm mình muốn khóc 😩</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="negative" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="112">
+        <text>Thumbnail nhìn clickbait ghê 😑</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="113">
+        <text>Màu da bị tệ quá 😤 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="positive" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="114">
+        <text>sạc bình thường 🤷 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="neutral" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="115">
+        <text>hỗ trợ tệ quá 😤</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="negative" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="116">
+        <text>hoàn tiền ngon nha 😄 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="117">
+        <text>Tự nhiên thấy app hôm nay ổn hơn hẳn 👍</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="positive" from="14" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="118">
+        <text>Đỉnh quá ha, loa đáng tiền ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="negative" from="13" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="119">
+        <text>Tự nhiên thấy hỗ trợ hôm nay ổn hơn hẳn 👌</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="positive" from="14" to="20" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="120">
+        <text>âm thanh làm tui muốn khóc 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="121">
+        <text>Tự nhiên thấy hoàn tiền hôm nay ổn hơn hẳn 👌</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="122">
+        <text>đóng gói bình thường 🤷 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="neutral" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="123">
+        <text>Clip edit đáng tiền nha 😍</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="124">
+        <text>Đỉnh quá ha, ánh sáng đáng tiền ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="125">
+        <text>Đỉnh quá ha, pin đáng tiền ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="negative" from="13" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="126">
+        <text>màn hình ngon nha 😍</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="127">
+        <text>Tự nhiên thấy bluetooth hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="128">
+        <text>hỗ trợ ngon nha ✨</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="positive" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="129">
+        <text>Đỉnh quá ha, thuê bao ngon ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="130">
+        <text>ảnh bình thường 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="neutral" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="131">
+        <text>bố cục tệ quá 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="negative" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="132">
+        <text>wifi làm mình muốn khóc 😑 #feedback (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="negative" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="133">
+        <text>bố cục làm mình muốn khóc 😑</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="negative" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="134">
+        <text>hoàn tiền cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="135">
+        <text>Đỉnh quá ha, caption mượt ghê 🙃 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="negative" from="13" to="20" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="136">
+        <text>đóng gói cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="137">
+        <text>màn hình tệ quá 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="negative" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="138">
+        <text>thumbnail tệ quá 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="negative" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="139">
+        <text>thuê bao bình thường 🤷 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="neutral" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="140">
+        <text>Màu da bị lag quá 😩</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="141">
+        <text>filter ngon nha 😍</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="positive" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="142">
+        <text>giao hàng bình thường 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="neutral" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="143">
+        <text>edit ngon nha 👌 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="144">
+        <text>wifi tệ quá 😑</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="negative" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="145">
+        <text>bố cục cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="146">
+        <text>âm thanh tệ quá 🫠 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="negative" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="147">
+        <text>Tự nhiên thấy bluetooth hôm nay ổn hơn hẳn 😍 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="148">
+        <text>sạc làm mình muốn khóc 😩 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="negative" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="149">
+        <text>wifi bình thường 😶</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="neutral" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="150">
+        <text>camera tệ quá 😩</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="negative" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="151">
+        <text>hoàn tiền bình thường 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="neutral" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="152">
+        <text>app cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="153">
+        <text>Tự nhiên thấy bố cục hôm nay ổn hơn hẳn 👌 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="positive" from="14" to="20" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="154">
+        <text>Đỉnh quá ha, hoàn tiền đỉnh ghê 🙃 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="155">
+        <text>ship ngon nha 👌</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="156">
+        <text>pin tệ quá 🫠 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="negative" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="157">
+        <text>wifi tệ quá 😩 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="negative" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="158">
+        <text>micro cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="neutral" from="0" to="5" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="159">
+        <text>cập nhật ngon nha 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="160">
+        <text>hiệu năng ngon nha 👍</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="161">
+        <text>âm thanh bình thường 🤷 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="neutral" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="162">
+        <text>Tự nhiên thấy ánh sáng hôm nay ổn hơn hẳn 🔥 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="163">
+        <text>Nội dung bình thường nhưng hơi dài 😅 #mua_hàng (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="positive" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="164">
+        <text>pin bình thường 😶</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="neutral" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="165">
+        <text>hỗ trợ làm mình muốn khóc 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="negative" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="166">
+        <text>filter làm mình muốn khóc 😩</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="negative" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="167">
+        <text>loa cũng... vậy thôi 🙂 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="168">
+        <text>Tự nhiên thấy wifi hôm nay ổn hơn hẳn 🔥 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="positive" from="14" to="18" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="169">
+        <text>Đỉnh quá ha, đóng gói đỉnh ghê 🙃 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="170">
+        <text>ui tệ quá 😑</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="negative" from="0" to="2" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="171">
+        <text>giao hàng bình thường 😶 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="neutral" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="172">
+        <text>Đỉnh quá ha, hoàn tiền ổn áp ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="173">
+        <text>Nội dung tạm nhưng hơi dài 😅 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="174">
+        <text>Tự nhiên thấy màn hình hôm nay ổn hơn hẳn 😍</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="175">
+        <text>hoàn tiền tệ quá 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="negative" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="176">
+        <text>filter bình thường 😶</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="neutral" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="177">
+        <text>Ánh sáng ngon mà màu hơi không có gì đặc biệt.</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="178">
+        <text>Đỉnh quá ha, loa đáng tiền ghê 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="negative" from="13" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="179">
+        <text>hỗ trợ bình thường 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="neutral" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="180">
+        <text>app ngon nha 😍 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="181">
+        <text>Đỉnh quá ha, micro ổn áp ghê 🙃 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="negative" from="13" to="18" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="182">
+        <text>hoàn tiền bình thường 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="neutral" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="183">
+        <text>Tự nhiên thấy pin hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="positive" from="14" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="184">
+        <text>ánh sáng tệ quá 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="negative" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="185">
+        <text>wifi bình thường 😶 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="neutral" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="186">
+        <text>edit làm mình muốn khóc 😩</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="negative" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="187">
+        <text>âm thanh cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="188">
+        <text>hoàn tiền làm mình muốn khóc 🙃 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="189">
+        <text>Tự nhiên thấy caption hôm nay ổn hơn hẳn 👍</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="positive" from="14" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="190">
+        <text>Đỉnh quá ha, bố cục đáng tiền ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="negative" from="13" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="191">
+        <text>nội dung tệ quá 😤 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="negative" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="192">
+        <text>Đỉnh quá ha, camera mượt ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="negative" from="13" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="193">
+        <text>ui làm tui muốn khóc 🤦 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="negative" from="0" to="2" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="194">
+        <text>kịch bản làm mình muốn khóc 🤦 #mua_hàng (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="195">
+        <text>Tự nhiên thấy filter hôm nay ổn hơn hẳn 👌</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="positive" from="14" to="20" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="196">
+        <text>app làm mình muốn khóc 😩</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="negative" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="197">
+        <text>Đỉnh quá ha, caption mượt ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="negative" from="13" to="20" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="198">
+        <text>Thumbnail nhìn clickbait ghê 😑</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="199">
+        <text>thuê bao tệ quá 😤</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="negative" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="200">
+        <text>Tự nhiên thấy micro hôm nay ổn hơn hẳn 👍 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="positive" from="14" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="201">
+        <text>Đỉnh quá ha, sạc ngon ghê 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="negative" from="13" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="202">
+        <text>micro làm mình muốn khóc 😤</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="negative" from="0" to="5" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="203">
+        <text>Tự nhiên thấy cập nhật hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="204">
+        <text>pin cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="205">
+        <text>ship bình thường 🙂 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="neutral" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="206">
+        <text>Tự nhiên thấy hoàn tiền hôm nay ổn hơn hẳn 👌</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="207">
+        <text>Tự nhiên thấy loa hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="positive" from="14" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="208">
+        <text>giao hàng cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="209">
+        <text>loa bình thường 😶 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="neutral" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="210">
+        <text>hoàn tiền bình thường 🤷 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="neutral" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="211">
+        <text>hiệu năng làm tui muốn khóc 😩</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="212">
+        <text>Tự nhiên thấy ship hôm nay ổn hơn hẳn 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="positive" from="14" to="18" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="213">
+        <text>hỗ trợ cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="214">
+        <text>cập nhật cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="215">
+        <text>pin ngon nha 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="216">
+        <text>ship tệ quá 😤</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="negative" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="217">
+        <text>màu sắc bình thường 😶</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="neutral" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="218">
+        <text>bố cục cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="219">
+        <text>âm thanh làm mình muốn khóc 😩</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="220">
+        <text>Tự nhiên thấy wifi hôm nay ổn hơn hẳn 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="positive" from="14" to="18" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="221">
+        <text>Tự nhiên thấy tính năng hôm nay ổn hơn hẳn 😍</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="222">
+        <text>Đỉnh quá ha, video mượt ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="negative" from="13" to="18" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="223">
+        <text>app ngon nha 👍</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="224">
+        <text>edit tệ quá 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="negative" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="225">
+        <text>loa ngon nha 😍 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="226">
+        <text>ánh sáng bình thường 😶 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="neutral" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="227">
+        <text>nội dung làm mình muốn khóc 😤</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="228">
+        <text>wifi cũng... vậy thôi 🤷 #feedback (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="neutral" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="229">
+        <text>wifi ngon nha 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="230">
+        <text>video ngon nha 👌</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="positive" from="0" to="5" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="231">
+        <text>cập nhật làm mình muốn khóc 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="232">
+        <text>sạc cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="233">
+        <text>hoàn tiền làm mình muốn khóc 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="234">
+        <text>hoàn tiền ngon nha 👌 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="235">
+        <text>hỗ trợ ngon nha ✨</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="positive" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="236">
+        <text>filter bình thường 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="neutral" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="237">
+        <text>filter cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="238">
+        <text>Đỉnh quá ha, thuê bao đáng tiền ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="239">
+        <text>Đỉnh quá ha, cập nhật xịn ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="240">
+        <text>Tự nhiên thấy hiệu năng hôm nay ổn hơn hẳn 😄</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="241">
+        <text>Đỉnh quá ha, hỗ trợ đỉnh ghê 🙃 #trải_nghiệm (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="negative" from="13" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="242">
+        <text>màu sắc bình thường 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="neutral" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="243">
+        <text>bluetooth làm mình muốn khóc 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="244">
+        <text>hoàn tiền cũng... vậy thôi 🙂 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="245">
+        <text>Tự nhiên thấy âm thanh hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="246">
+        <text>Đỉnh quá ha, bố cục mượt ghê 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="negative" from="13" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="247">
+        <text>Tự nhiên thấy tính năng hôm nay ổn hơn hẳn 😍 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="248">
+        <text>Đỉnh quá ha, filter đáng tiền ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="negative" from="13" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="249">
+        <text>giao hàng cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="250">
+        <text>màn hình cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="251">
+        <text>Tự nhiên thấy ship hôm nay ổn hơn hẳn 😍 #hỏi_đáp (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="positive" from="14" to="18" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="252">
+        <text>màu sắc tệ quá 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="negative" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="253">
+        <text>thuê bao bình thường 😶</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="neutral" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="254">
+        <text>wifi ngon nha 👍</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="255">
+        <text>giao hàng tệ quá 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="negative" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="256">
+        <text>giao hàng ngon nha 👍</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="257">
+        <text>cập nhật bình thường 😶 #feedback (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="neutral" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="258">
+        <text>Tự nhiên thấy wifi hôm nay ổn hơn hẳn 😍</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="positive" from="14" to="18" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="259">
+        <text>pin cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="260">
+        <text>nội dung cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="261">
+        <text>Đỉnh quá ha, sạc đỉnh ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="negative" from="13" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="262">
+        <text>pin tệ quá 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="negative" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="263">
+        <text>ship làm mình muốn khóc 🫠 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="negative" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="264">
+        <text>bố cục tệ quá 🙃 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="negative" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="265">
+        <text>Tự nhiên thấy nội dung hôm nay ổn hơn hẳn 👍 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="266">
+        <text>caption ngon nha 🔥 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="positive" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="267">
+        <text>hoàn tiền cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="268">
+        <text>filter cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="269">
+        <text>bố cục ngon nha 👍 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="positive" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="270">
+        <text>thumbnail ngon nha 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="271">
+        <text>Filter này tạm thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="272">
+        <text>nội dung cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="273">
+        <text>camera cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="274">
+        <text>Tự nhiên thấy thumbnail hôm nay ổn hơn hẳn 😍</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="275">
+        <text>filter cũng... vậy thôi 🤷 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="276">
+        <text>camera cũng... vậy thôi 😶 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="277">
+        <text>màn hình bình thường 😶</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="neutral" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="278">
+        <text>màn hình cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="279">
+        <text>Đỉnh quá ha, giao hàng ngon ghê 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="280">
+        <text>Tự nhiên thấy ship hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="positive" from="14" to="18" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="281">
+        <text>wifi ngon nha 👌</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="282">
+        <text>Tự nhiên thấy kịch bản hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="283">
+        <text>video cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="neutral" from="0" to="5" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="284">
+        <text>hiệu năng ngon nha 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="285">
+        <text>Đỉnh quá ha, hiệu năng ổn áp ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="286">
+        <text>tính năng bình thường 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="neutral" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="287">
+        <text>wifi ngon nha ✨</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="288">
+        <text>Đỉnh quá ha, thuê bao mượt ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="289">
+        <text>micro ngon nha 😄</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="positive" from="0" to="5" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="290">
+        <text>micro ngon nha ✨</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="positive" from="0" to="5" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="291">
+        <text>màu sắc bình thường 🤷 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="neutral" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="292">
+        <text>bố cục ngon nha 👍</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="positive" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="293">
+        <text>ánh sáng tệ quá 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="negative" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="294">
+        <text>sạc làm mình muốn khóc 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="negative" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="295">
+        <text>Tự nhiên thấy pin hôm nay ổn hơn hẳn ✨ #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="positive" from="14" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="296">
+        <text>bố cục bình thường 😶 #mua_hàng (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="neutral" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="297">
+        <text>app làm mình muốn khóc 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="negative" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="298">
+        <text>video tệ quá 😑</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="negative" from="0" to="5" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="299">
+        <text>Tự nhiên thấy đóng gói hôm nay ổn hơn hẳn ✨ (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="300">
+        <text>Tự nhiên thấy video hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="positive" from="14" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="301">
+        <text>Đỉnh quá ha, kịch bản xịn ghê 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="302">
+        <text>ui làm mình muốn khóc 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="negative" from="0" to="2" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="303">
+        <text>Tự nhiên thấy pin hôm nay ổn hơn hẳn 😍</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="positive" from="14" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="304">
+        <text>app bình thường 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="neutral" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="305">
+        <text>Đỉnh quá ha, app đỉnh ghê 🙃 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="negative" from="13" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="306">
+        <text>kịch bản tệ quá 😤</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="negative" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="307">
+        <text>âm thanh ngon nha 😄</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="308">
+        <text>kịch bản cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="309">
+        <text>Tự nhiên thấy giao hàng hôm nay ổn hơn hẳn 👍</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="310">
+        <text>bluetooth ngon nha 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="311">
+        <text>sạc tệ quá 🫠 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="negative" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="312">
+        <text>Tự nhiên thấy camera hôm nay ổn hơn hẳn 👌 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="positive" from="14" to="20" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="313">
+        <text>Đỉnh quá ha, âm thanh ngon ghê 🙃 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="314">
+        <text>tính năng ngon nha 🔥 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="315">
+        <text>hoàn tiền ngon nha 👍</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="316">
+        <text>Tự nhiên thấy màu sắc hôm nay ổn hơn hẳn 😄 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="positive" from="14" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="317">
+        <text>Đỉnh quá ha, ship mượt ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="negative" from="13" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="318">
+        <text>Đỉnh quá ha, video đỉnh ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="negative" from="13" to="18" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="319">
+        <text>ảnh bình thường 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="neutral" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="320">
+        <text>camera cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="321">
+        <text>sạc ngon nha 😄</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="322">
+        <text>màn hình tệ quá 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="negative" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="323">
+        <text>Âm thanh chói quá 😩</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="neutral" from="0" to="0" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="324">
+        <text>loa ngon nha ✨</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="325">
+        <text>Đỉnh quá ha, cập nhật xịn ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="326">
+        <text>edit tệ quá 😤</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="negative" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="327">
+        <text>Clip edit đỉnh nha 😍</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="328">
+        <text>Đỉnh quá ha, app xịn ghê 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="negative" from="13" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="329">
+        <text>Tự nhiên thấy nội dung hôm nay ổn hơn hẳn 👍</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="330">
+        <text>Tự nhiên thấy màn hình hôm nay ổn hơn hẳn 😍</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="331">
+        <text>Tự nhiên thấy bluetooth hôm nay ổn hơn hẳn 😄</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="332">
+        <text>Tự nhiên thấy cập nhật hôm nay ổn hơn hẳn 👍 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="333">
+        <text>app cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="334">
+        <text>Đỉnh quá ha, âm thanh ngon ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="335">
+        <text>Đỉnh quá ha, thuê bao đỉnh ghê 🙃 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="336">
+        <text>hiệu năng ngon nha 👌</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="337">
+        <text>âm thanh ngon nha 👍 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="338">
+        <text>màu sắc cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="neutral" from="0" to="7" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="339">
+        <text>Thumbnail nhìn clickbait ghê 😑</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="positive" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="340">
+        <text>Tự nhiên thấy micro hôm nay ổn hơn hẳn 😄</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="positive" from="14" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="341">
+        <text>Âm thanh to quá 😑</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="neutral" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="342">
+        <text>thumbnail cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="343">
+        <text>giao hàng tệ quá 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="negative" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="344">
+        <text>ánh sáng ngon nha 😄 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="345">
+        <text>hỗ trợ cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="346">
+        <text>edit ngon nha 😄 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="347">
+        <text>Tự nhiên thấy hiệu năng hôm nay ổn hơn hẳn 👍</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="348">
+        <text>âm thanh cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="349">
+        <text>ui tệ quá 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="negative" from="0" to="2" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="350">
+        <text>Đỉnh quá ha, hiệu năng đỉnh ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="351">
+        <text>loa làm mình muốn khóc 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="negative" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="352">
+        <text>Đỉnh quá ha, ship đỉnh ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="negative" from="13" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="353">
+        <text>Đỉnh quá ha, ui xịn ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="negative" from="13" to="15" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="354">
+        <text>Âm thanh bé xíu quá 😩</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="355">
+        <text>wifi ngon nha 😄</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="356">
+        <text>tính năng ngon nha 🔥 #trải_nghiệm (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="357">
+        <text>kịch bản làm mình muốn khóc 😤</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="358">
+        <text>kịch bản làm mình muốn khóc 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="359">
+        <text>Đỉnh quá ha, bố cục đỉnh ghê 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="negative" from="13" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="360">
+        <text>nội dung ngon nha 😄</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="361">
+        <text>Tự nhiên thấy ui hôm nay ổn hơn hẳn 😄</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="positive" from="14" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="362">
+        <text>ship bình thường 😶</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="neutral" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="363">
+        <text>wifi ngon nha 😍</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="364">
+        <text>Tự nhiên thấy đóng gói hôm nay ổn hơn hẳn 😍</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="365">
+        <text>âm thanh làm mình muốn khóc 🤦 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="366">
+        <text>thuê bao cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="367">
+        <text>Ảnh này nhìn ngon ghê 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="neutral" from="0" to="0" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="368">
+        <text>Đỉnh quá ha, camera xịn ghê 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="negative" from="13" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="369">
+        <text>hoàn tiền làm mình muốn khóc 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="370">
+        <text>Nội dung không có gì đặc biệt nhưng hơi chậm 😅 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="371">
+        <text>Filter này tạm thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="negative" from="0" to="0" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="372">
+        <text>màu sắc bình thường 😶</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="neutral" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="373">
+        <text>Âm thanh rè quá 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="neutral" from="0" to="0" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="374">
+        <text>đóng gói làm mình muốn khóc 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="375">
+        <text>Đỉnh quá ha, thuê bao xịn ghê 🙃 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="376">
+        <text>màn hình ngon nha 👍 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="377">
+        <text>bluetooth làm tui muốn khóc 😑 #mua_hàng (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="378">
+        <text>đóng gói tệ quá 🤦 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="negative" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="379">
+        <text>Đỉnh quá ha, đóng gói đỉnh ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="380">
+        <text>Tự nhiên thấy bluetooth hôm nay ổn hơn hẳn 👌 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="381">
+        <text>app cũng... vậy thôi 😶 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="382">
+        <text>Đỉnh quá ha, pin xịn ghê 🙃 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="negative" from="13" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="383">
+        <text>hiệu năng bình thường 🤷 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="neutral" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="384">
+        <text>bố cục tệ quá 😤</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="negative" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="385">
+        <text>Tự nhiên thấy filter hôm nay ổn hơn hẳn 👌</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="positive" from="14" to="20" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="386">
+        <text>Tự nhiên thấy loa hôm nay ổn hơn hẳn 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="positive" from="14" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="387">
+        <text>Tự nhiên thấy pin hôm nay ổn hơn hẳn 😄 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="positive" from="14" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="388">
+        <text>edit tệ quá 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="negative" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="389">
+        <text>Tự nhiên thấy ship hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="positive" from="14" to="18" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="390">
+        <text>đóng gói bình thường 😶</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="neutral" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="391">
+        <text>Đỉnh quá ha, wifi đáng tiền ghê 🙃 #mua_hàng (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="negative" from="13" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="392">
+        <text>pin ngon nha 😍 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="393">
+        <text>filter ngon nha 👍</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="positive" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="394">
+        <text>Tự nhiên thấy hiệu năng hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="395">
+        <text>Tự nhiên thấy thuê bao hôm nay ổn hơn hẳn 👌 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="396">
+        <text>app cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="397">
+        <text>nội dung làm mình muốn khóc 😤 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="398">
+        <text>app ngon nha 🔥 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="399">
+        <text>hoàn tiền tệ quá 😩 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="negative" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="400">
+        <text>ship làm mình muốn khóc 🫠 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="negative" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="401">
+        <text>pin ngon nha 😄</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="402">
+        <text>Tự nhiên thấy bluetooth hôm nay ổn hơn hẳn ✨ #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="403">
+        <text>Tự nhiên thấy hỗ trợ hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="positive" from="14" to="20" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="404">
+        <text>Âm thanh to quá 😤</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="405">
+        <text>bluetooth cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="406">
+        <text>app cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="407">
+        <text>hỗ trợ bình thường 🤷 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="neutral" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="408">
+        <text>hỗ trợ bình thường 🤷 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="neutral" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="409">
+        <text>Tự nhiên thấy ảnh hôm nay ổn hơn hẳn 😄</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="positive" from="14" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="410">
+        <text>Ảnh này nhìn ngon ghê 😍</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="neutral" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="411">
+        <text>micro cũng... vậy thôi 😶 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="neutral" from="0" to="5" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="412">
+        <text>giao hàng ngon nha 👍</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="413">
+        <text>Tự nhiên thấy ui hôm nay ổn hơn hẳn 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="positive" from="14" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="414">
+        <text>Nội dung bình thường nhưng hơi dài 😅 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="415">
+        <text>giao hàng cũng... vậy thôi 🤷 #trải_nghiệm (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="416">
+        <text>Tự nhiên thấy kịch bản hôm nay ổn hơn hẳn 👍</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="417">
+        <text>hiệu năng làm mình muốn khóc 😩</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="418">
+        <text>màu sắc cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="neutral" from="0" to="7" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="419">
+        <text>Đỉnh quá ha, hoàn tiền ổn áp ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="420">
+        <text>Đỉnh quá ha, tính năng mượt ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="421">
+        <text>Tự nhiên thấy bố cục hôm nay ổn hơn hẳn 🔥 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="positive" from="14" to="20" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="422">
+        <text>hỗ trợ làm mình muốn khóc 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="negative" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="423">
+        <text>Âm thanh bé xíu quá 😑</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="neutral" from="0" to="0" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="424">
+        <text>sạc cũng... vậy thôi 🙂 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="425">
+        <text>Âm thanh bé xíu quá 😑</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="426">
+        <text>kịch bản tệ quá 😑 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="negative" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="427">
+        <text>màn hình ngon nha 👌</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="428">
+        <text>ui làm mình muốn khóc 😩</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="negative" from="0" to="2" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="429">
+        <text>cập nhật cũng... vậy thôi 🤷 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="430">
+        <text>bố cục cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="431">
+        <text>Đỉnh quá ha, thuê bao mượt ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="432">
+        <text>bluetooth cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="433">
+        <text>ui cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="neutral" from="0" to="2" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="434">
+        <text>tính năng làm mình muốn khóc 😑</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="435">
+        <text>Tự nhiên thấy caption hôm nay ổn hơn hẳn 😍</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="positive" from="14" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="436">
+        <text>video cũng... vậy thôi 🤷 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="neutral" from="0" to="5" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="437">
+        <text>bố cục làm mình muốn khóc 🤦 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="negative" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="438">
+        <text>màn hình làm mình muốn khóc 🤦 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="439">
+        <text>ship cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="neutral" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="440">
+        <text>thumbnail bình thường 😶 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="neutral" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="441">
+        <text>hiệu năng ngon nha 👍 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="442">
+        <text>ánh sáng cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="443">
+        <text>Tự nhiên thấy giao hàng hôm nay ổn hơn hẳn 😄</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="444">
+        <text>filter cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="445">
+        <text>nội dung làm mình muốn khóc 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="446">
+        <text>Ảnh này nhìn ngon ghê 👍 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="447">
+        <text>Đỉnh quá ha, giao hàng đỉnh ghê 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="448">
+        <text>màu sắc tệ quá 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="negative" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="449">
+        <text>Màu da bị lag quá 😤</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="positive" from="0" to="0" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="450">
+        <text>ảnh ngon nha 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="451">
+        <text>wifi ngon nha 😄</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="452">
+        <text>video làm mình muốn khóc 😩</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="negative" from="0" to="5" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="453">
+        <text>Đỉnh quá ha, thuê bao ngon ghê 🙃 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="454">
+        <text>ảnh làm mình muốn khóc 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="negative" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="455">
+        <text>cập nhật làm mình muốn khóc 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="456">
+        <text>Tự nhiên thấy camera hôm nay ổn hơn hẳn ✨ (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="positive" from="14" to="20" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="457">
+        <text>cập nhật ngon nha 😍 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="458">
+        <text>màu sắc làm tui muốn khóc 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="negative" from="0" to="7" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="459">
+        <text>ánh sáng ngon nha 😍</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="460">
+        <text>giao hàng ngon nha 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="461">
+        <text>video làm mình muốn khóc 😑 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="negative" from="0" to="5" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="462">
+        <text>camera cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="463">
+        <text>micro làm mình muốn khóc 😑</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="negative" from="0" to="5" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="464">
+        <text>bluetooth bình thường 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="neutral" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="465">
+        <text>màu sắc ngon nha 😍 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="positive" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="466">
+        <text>âm thanh làm mình muốn khóc 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="467">
+        <text>camera làm mình muốn khóc 😤 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="negative" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="468">
+        <text>hoàn tiền ngon nha 😍</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="469">
+        <text>cập nhật tệ quá 😩</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="negative" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="470">
+        <text>Đỉnh quá ha, hỗ trợ xịn ghê 🙃 #trải_nghiệm (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="negative" from="13" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="471">
+        <text>bluetooth ngon nha 🔥 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="472">
+        <text>đóng gói tệ quá 🙃 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="negative" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="473">
+        <text>Filter này ổn thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="neutral" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="474">
+        <text>bluetooth cũng... vậy thôi 🙂 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="475">
+        <text>nội dung cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="476">
+        <text>caption tệ quá 😩</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="negative" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="477">
+        <text>Tự nhiên thấy ui hôm nay ổn hơn hẳn 😄 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="positive" from="14" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="478">
+        <text>ship ngon nha ✨</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="479">
+        <text>hoàn tiền tệ quá 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="negative" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="480">
+        <text>màu sắc tệ quá 😑 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="negative" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="481">
+        <text>hiệu năng cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="482">
+        <text>Tự nhiên thấy pin hôm nay ổn hơn hẳn 👍</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="positive" from="14" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="483">
+        <text>camera làm mình muốn khóc 😤 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="negative" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="484">
+        <text>màu sắc cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="neutral" from="0" to="7" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="485">
+        <text>Đỉnh quá ha, camera ổn áp ghê 🙃 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="negative" from="13" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="486">
+        <text>edit làm tui muốn khóc 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="negative" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="487">
+        <text>Đỉnh quá ha, thumbnail xịn ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="488">
+        <text>thuê bao ngon nha 👍 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="489">
+        <text>bluetooth tệ quá 😑 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="negative" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="490">
+        <text>Ánh sáng đỉnh mà màu hơi bình thường.</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="positive" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="491">
+        <text>Ánh sáng đỉnh mà màu hơi không có gì đặc biệt.</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="492">
+        <text>Tự nhiên thấy ui hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="positive" from="14" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="493">
+        <text>Tự nhiên thấy hiệu năng hôm nay ổn hơn hẳn 😄</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="494">
+        <text>filter làm mình muốn khóc 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="negative" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="495">
+        <text>màn hình bình thường 🙂 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="neutral" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="496">
+        <text>Filter này tạm thôi 🤷 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="positive" from="0" to="0" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="497">
+        <text>Tự nhiên thấy ui hôm nay ổn hơn hẳn 👌 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="positive" from="14" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="498">
+        <text>bố cục cũng... vậy thôi 🙂 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="499">
+        <text>hỗ trợ ngon nha 😍</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="positive" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="500">
+        <text>Tự nhiên thấy giao hàng hôm nay ổn hơn hẳn 🔥 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="501">
+        <text>bluetooth cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="502">
+        <text>bố cục làm mình muốn khóc 🫠 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="negative" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="503">
+        <text>Đỉnh quá ha, đóng gói ngon ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="504">
+        <text>caption ngon nha 😄 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="positive" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="505">
+        <text>micro tệ quá 😩 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="negative" from="0" to="5" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="506">
+        <text>giao hàng làm tui muốn khóc 😤</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="507">
+        <text>camera làm mình muốn khóc 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="negative" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="508">
+        <text>Tự nhiên thấy edit hôm nay ổn hơn hẳn 😄 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="positive" from="14" to="18" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="509">
+        <text>bluetooth cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="510">
+        <text>app cũng... vậy thôi 😶 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="511">
+        <text>Tự nhiên thấy hỗ trợ hôm nay ổn hơn hẳn 😄 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="positive" from="14" to="20" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="512">
+        <text>Đỉnh quá ha, ánh sáng đáng tiền ghê 🙃 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="513">
+        <text>bố cục tệ quá 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="negative" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="514">
+        <text>ui ngon nha 🔥 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="positive" from="0" to="2" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="515">
+        <text>màn hình làm mình muốn khóc 🤦 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="516">
+        <text>Tự nhiên thấy tính năng hôm nay ổn hơn hẳn 😄</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="517">
+        <text>nội dung cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="518">
+        <text>đóng gói cũng... vậy thôi 🙂 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="519">
+        <text>Đỉnh quá ha, kịch bản xịn ghê 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="520">
+        <text>Tự nhiên thấy màu sắc hôm nay ổn hơn hẳn 😍 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="positive" from="14" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="521">
+        <text>giao hàng tệ quá 😑</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="negative" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="522">
+        <text>Ảnh này nhìn ổn áp ghê 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="positive" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="523">
+        <text>app ngon nha 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="524">
+        <text>Tự nhiên thấy hỗ trợ hôm nay ổn hơn hẳn 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="positive" from="14" to="20" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="525">
+        <text>Đỉnh quá ha, bluetooth ngon ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="526">
+        <text>edit cũng... vậy thôi 🤷 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="neutral" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="527">
+        <text>thuê bao ngon nha 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="528">
+        <text>Ảnh này nhìn ổn áp ghê ✨</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="529">
+        <text>ui cũng... vậy thôi 🤷 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="neutral" from="0" to="2" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="530">
+        <text>Đỉnh quá ha, tính năng ngon ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="531">
+        <text>camera cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="532">
+        <text>Đỉnh quá ha, camera xịn ghê 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="negative" from="13" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="533">
+        <text>loa cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="534">
+        <text>ship tệ quá 😑</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="negative" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="535">
+        <text>Đỉnh quá ha, wifi ngon ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="negative" from="13" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="536">
+        <text>Clip edit đáng tiền nha 😍 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="537">
+        <text>bluetooth tệ quá 🙃 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="negative" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="538">
+        <text>Ảnh này nhìn mượt ghê 😍</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="539">
+        <text>ui bình thường 🙂 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="neutral" from="0" to="2" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="540">
+        <text>cập nhật làm mình muốn khóc 😑</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="541">
+        <text>Tự nhiên thấy video hôm nay ổn hơn hẳn 😍</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="positive" from="14" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="542">
+        <text>Tự nhiên thấy giao hàng hôm nay ổn hơn hẳn 👍</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="543">
+        <text>cập nhật làm mình muốn khóc 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="544">
+        <text>filter làm mình muốn khóc 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="negative" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="545">
+        <text>caption làm mình muốn khóc 😤 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="negative" from="0" to="7" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="546">
+        <text>pin cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="547">
+        <text>app bình thường 🤷 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="neutral" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="548">
+        <text>wifi cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="neutral" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="549">
+        <text>Đỉnh quá ha, âm thanh ổn áp ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="550">
+        <text>bố cục làm mình muốn khóc 😤</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="negative" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="551">
+        <text>caption bình thường 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="neutral" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="552">
+        <text>Đỉnh quá ha, app đỉnh ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="negative" from="13" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="553">
+        <text>âm thanh ngon nha ✨ #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="554">
+        <text>ui bình thường 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="neutral" from="0" to="2" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="555">
+        <text>caption cũng... vậy thôi 🤷 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="neutral" from="0" to="7" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="556">
+        <text>Tự nhiên thấy ui hôm nay ổn hơn hẳn 👍</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="positive" from="14" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="557">
+        <text>Đỉnh quá ha, hoàn tiền đáng tiền ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="558">
+        <text>Tự nhiên thấy cập nhật hôm nay ổn hơn hẳn 👌 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="559">
+        <text>edit bình thường 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="neutral" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="560">
+        <text>thumbnail bình thường 🤷 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="neutral" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="561">
+        <text>Tự nhiên thấy ánh sáng hôm nay ổn hơn hẳn 👌</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="562">
+        <text>camera tệ quá 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="negative" from="0" to="6" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="563">
+        <text>Đỉnh quá ha, thumbnail đáng tiền ghê 🙃 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="564">
+        <text>ảnh ngon nha 😄</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="565">
+        <text>tính năng ngon nha 😍</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="566">
+        <text>ảnh làm mình muốn khóc 😩</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="negative" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="567">
+        <text>Tự nhiên thấy màu sắc hôm nay ổn hơn hẳn 😍</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="positive" from="14" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="568">
+        <text>thumbnail ngon nha 👌</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="569">
+        <text>thuê bao làm mình muốn khóc 😩</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="570">
+        <text>màn hình cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="571">
+        <text>Đỉnh quá ha, âm thanh đáng tiền ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="572">
+        <text>wifi cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="neutral" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="573">
+        <text>hoàn tiền tệ quá 😑</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="negative" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="574">
+        <text>Tự nhiên thấy micro hôm nay ổn hơn hẳn 👌</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="positive" from="14" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="575">
+        <text>đóng gói làm tui muốn khóc 😤</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="576">
+        <text>âm thanh cũng... vậy thôi 🙂 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="577">
+        <text>Tự nhiên thấy cập nhật hôm nay ổn hơn hẳn 👌</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="578">
+        <text>ảnh ngon nha 😍</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="579">
+        <text>Ánh sáng xịn mà màu hơi ổn.</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="neutral" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="580">
+        <text>Đỉnh quá ha, ui xịn ghê 🙃 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="negative" from="13" to="15" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="581">
+        <text>sạc tệ quá 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="negative" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="582">
+        <text>micro tệ quá 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="negative" from="0" to="5" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="583">
+        <text>màu sắc ngon nha 🔥 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="positive" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="584">
+        <text>bluetooth làm mình muốn khóc 😑</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="585">
+        <text>caption tệ quá 😤</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="negative" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="586">
+        <text>đóng gói ngon nha 😄 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="587">
+        <text>Tự nhiên thấy màn hình hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="588">
+        <text>Đỉnh quá ha, ui đáng tiền ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="negative" from="13" to="15" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="589">
+        <text>màn hình bình thường 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="neutral" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="590">
+        <text>cập nhật ngon nha 👌</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="591">
+        <text>kịch bản ngon nha 🔥 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="kịch bản" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="592">
+        <text>thuê bao bình thường 🤷 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="neutral" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="593">
+        <text>Filter này không có gì đặc biệt thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="positive" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="594">
+        <text>Đỉnh quá ha, hiệu năng xịn ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="595">
+        <text>Âm thanh bé xíu quá 😤</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="596">
+        <text>Âm thanh bé xíu quá 😩</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="neutral" from="0" to="0" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="597">
+        <text>đóng gói ngon nha 👌</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="598">
+        <text>hoàn tiền làm tui muốn khóc 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="599">
+        <text>micro cũng... vậy thôi 🤷 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="neutral" from="0" to="5" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="600">
+        <text>ship ngon nha ✨</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="601">
+        <text>giao hàng ngon nha 😄</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="602">
+        <text>bố cục cũng... vậy thôi 🤷 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="bố cục" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="603">
+        <text>ship ngon nha 😍</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="604">
+        <text>Thumbnail nhìn clickbait ghê 😑</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="neutral" from="0" to="0" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="605">
+        <text>cập nhật cũng... vậy thôi 🤷 #mua_hàng (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="606">
+        <text>micro bình thường 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="neutral" from="0" to="5" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="607">
+        <text>Ảnh này nhìn mượt ghê 😍</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="negative" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="608">
+        <text>tính năng ngon nha 🔥 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="609">
+        <text>Filter này bình thường thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="610">
+        <text>Tự nhiên thấy nội dung hôm nay ổn hơn hẳn 👌 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="611">
+        <text>Đỉnh quá ha, ship ổn áp ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="negative" from="13" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="612">
+        <text>Đỉnh quá ha, tính năng xịn ghê 🙃 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="613">
+        <text>Đỉnh quá ha, ui ổn áp ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="negative" from="13" to="15" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="614">
+        <text>Đỉnh quá ha, bluetooth đáng tiền ghê 🙃 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="615">
+        <text>Đỉnh quá ha, ship ổn áp ghê 🙃 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="negative" from="13" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="616">
+        <text>đóng gói làm mình muốn khóc 😩</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="617">
+        <text>màu sắc cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="neutral" from="0" to="7" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="618">
+        <text>bluetooth ngon nha 👌</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="619">
+        <text>ảnh bình thường 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="neutral" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="620">
+        <text>thuê bao ngon nha 👌</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="621">
+        <text>giao hàng bình thường 🙂 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="giao hàng" polarity="neutral" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="622">
+        <text>Tự nhiên thấy hiệu năng hôm nay ổn hơn hẳn 😍</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="623">
+        <text>caption làm tui muốn khóc 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="negative" from="0" to="7" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="624">
+        <text>edit ngon nha 😍</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="625">
+        <text>sạc cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="neutral" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="626">
+        <text>Đỉnh quá ha, app ổn áp ghê 🙃 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="negative" from="13" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="627">
+        <text>Tự nhiên thấy đóng gói hôm nay ổn hơn hẳn 😍</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="628">
+        <text>ánh sáng làm mình muốn khóc 😑</text>
+        <aspectTerms>
+            <aspectTerm term="ánh sáng" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="629">
+        <text>Tự nhiên thấy bluetooth hôm nay ổn hơn hẳn 🔥 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="630">
+        <text>Tự nhiên thấy ship hôm nay ổn hơn hẳn 👌</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="positive" from="14" to="18" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="631">
+        <text>âm thanh ngon nha 🔥 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="632">
+        <text>Màu da bị lag quá 😤</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="633">
+        <text>wifi cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="neutral" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="634">
+        <text>loa làm mình muốn khóc 🤦 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="negative" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="635">
+        <text>caption ngon nha ✨ #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="positive" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="636">
+        <text>Màu da bị bất ổn quá 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="637">
+        <text>bluetooth ngon nha ✨</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="638">
+        <text>âm thanh bình thường 😶</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="neutral" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="639">
+        <text>ship làm mình muốn khóc 🫠</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="negative" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="640">
+        <text>Tự nhiên thấy app hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="positive" from="14" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="641">
+        <text>Đỉnh quá ha, hoàn tiền đáng tiền ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="642">
+        <text>loa làm mình muốn khóc 😩</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="negative" from="0" to="3" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="643">
+        <text>wifi làm mình muốn khóc 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="negative" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="644">
+        <text>thuê bao làm mình muốn khóc 😤 #feedback (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="645">
+        <text>hoàn tiền cũng... vậy thôi 🙂 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="646">
+        <text>Đỉnh quá ha, sạc đáng tiền ghê 🙃 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="negative" from="13" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="647">
+        <text>đóng gói làm mình muốn khóc 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="648">
+        <text>cập nhật bình thường 😶</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="neutral" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="649">
+        <text>edit làm mình muốn khóc 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="negative" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="650">
+        <text>Đỉnh quá ha, hiệu năng đáng tiền ghê 🙃 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="651">
+        <text>Tự nhiên thấy thumbnail hôm nay ổn hơn hẳn ✨ #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="652">
+        <text>filter cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="653">
+        <text>hiệu năng cũng... vậy thôi 🤷 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="654">
+        <text>Tự nhiên thấy micro hôm nay ổn hơn hẳn ✨ (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="positive" from="14" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="655">
+        <text>hiệu năng làm tui muốn khóc 🫠 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="negative" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="656">
+        <text>caption bình thường 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="neutral" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="657">
+        <text>Đỉnh quá ha, filter ổn áp ghê 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="filter" polarity="negative" from="13" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="658">
+        <text>Đỉnh quá ha, ship ngon ghê 🙃 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="negative" from="13" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="659">
+        <text>Đỉnh quá ha, video xịn ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="negative" from="13" to="18" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="660">
+        <text>Tự nhiên thấy video hôm nay ổn hơn hẳn 😍</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="positive" from="14" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="661">
+        <text>Clip edit ngon nha 👌 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="positive" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="662">
+        <text>màn hình làm mình muốn khóc 😤 #hỏi_đáp (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="663">
+        <text>Tự nhiên thấy bluetooth hôm nay ổn hơn hẳn 😍 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="664">
+        <text>Clip edit mượt nha 🔥 #feedback</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="665">
+        <text>hiệu năng ngon nha 👍</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="666">
+        <text>bluetooth ngon nha 👍</text>
+        <aspectTerms>
+            <aspectTerm term="bluetooth" polarity="positive" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="667">
+        <text>micro làm mình muốn khóc 😤 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="micro" polarity="negative" from="0" to="5" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="668">
+        <text>loa tệ quá 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="negative" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="669">
+        <text>hỗ trợ cũng... vậy thôi 🤷</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="670">
+        <text>Đỉnh quá ha, camera đỉnh ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="negative" from="13" to="19" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="671">
+        <text>Tự nhiên thấy ui hôm nay ổn hơn hẳn 👌 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="ui" polarity="positive" from="14" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="672">
+        <text>edit ngon nha 😄</text>
+        <aspectTerms>
+            <aspectTerm term="edit" polarity="positive" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="673">
+        <text>Tự nhiên thấy đóng gói hôm nay ổn hơn hẳn 😍</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="674">
+        <text>Thumbnail nhìn clickbait ghê 😑</text>
+        <aspectTerms>
+            <aspectTerm term="video" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="675">
+        <text>ship tệ quá 😑</text>
+        <aspectTerms>
+            <aspectTerm term="ship" polarity="negative" from="0" to="4" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="676">
+        <text>app ngon nha 😍 #trải_nghiệm</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="positive" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="677">
+        <text>Đỉnh quá ha, wifi ổn áp ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="negative" from="13" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="678">
+        <text>thumbnail bình thường 🤷 #mua_hàng</text>
+        <aspectTerms>
+            <aspectTerm term="thumbnail" polarity="neutral" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="679">
+        <text>Tự nhiên thấy loa hôm nay ổn hơn hẳn 🔥 #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="loa" polarity="positive" from="14" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="680">
+        <text>app tệ quá 😑</text>
+        <aspectTerms>
+            <aspectTerm term="app" polarity="negative" from="0" to="3" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="681">
+        <text>Tự nhiên thấy hỗ trợ hôm nay ổn hơn hẳn 👍</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="positive" from="14" to="20" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="682">
+        <text>thuê bao cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="683">
+        <text>Tự nhiên thấy nội dung hôm nay ổn hơn hẳn 👍 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="684">
+        <text>hiệu năng cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="hiệu năng" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="685">
+        <text>Màu da bị chập chờn quá 🤦</text>
+        <aspectTerms>
+            <aspectTerm term="ảnh" polarity="negative" from="0" to="0" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="686">
+        <text>thuê bao làm tui muốn khóc 😩</text>
+        <aspectTerms>
+            <aspectTerm term="thuê bao" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="687">
+        <text>Đỉnh quá ha, hoàn tiền đáng tiền ghê 🙃 (no cap)</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="negative" from="13" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="688">
+        <text>âm thanh làm mình muốn khóc 😤</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="negative" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="689">
+        <text>Tự nhiên thấy pin hôm nay ổn hơn hẳn ✨ #hỏi_đáp</text>
+        <aspectTerms>
+            <aspectTerm term="pin" polarity="positive" from="14" to="17" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="690">
+        <text>âm thanh tệ quá 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="âm thanh" polarity="negative" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="691">
+        <text>Đỉnh quá ha, caption mượt ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="caption" polarity="negative" from="13" to="20" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="692">
+        <text>nội dung cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="neutral" from="0" to="8" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="693">
+        <text>tính năng cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="neutral" from="0" to="9" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="694">
+        <text>Tự nhiên thấy hoàn tiền hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="hoàn tiền" polarity="positive" from="14" to="23" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="695">
+        <text>Đỉnh quá ha, màn hình ổn áp ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="màn hình" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="696">
+        <text>Tự nhiên thấy nội dung hôm nay ổn hơn hẳn ✨</text>
+        <aspectTerms>
+            <aspectTerm term="nội dung" polarity="positive" from="14" to="22" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="697">
+        <text>màu sắc bình thường 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="màu sắc" polarity="neutral" from="0" to="7" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="698">
+        <text>wifi cũng... vậy thôi 🙂</text>
+        <aspectTerms>
+            <aspectTerm term="wifi" polarity="neutral" from="0" to="4" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="699">
+        <text>Đỉnh quá ha, sạc đỉnh ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="sạc" polarity="negative" from="13" to="16" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="700">
+        <text>hỗ trợ cũng... vậy thôi 😶</text>
+        <aspectTerms>
+            <aspectTerm term="hỗ trợ" polarity="neutral" from="0" to="6" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="701">
+        <text>tính năng tệ quá 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="tính năng" polarity="negative" from="0" to="9" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="702">
+        <text>Đỉnh quá ha, cập nhật ổn áp ghê 🙃</text>
+        <aspectTerms>
+            <aspectTerm term="cập nhật" polarity="negative" from="13" to="21" implicit_sentiment="True" />
+        </aspectTerms>
+    </sentence>
+    <sentence id="703">
+        <text>đóng gói ngon nha 🔥</text>
+        <aspectTerms>
+            <aspectTerm term="đóng gói" polarity="positive" from="0" to="8" implicit_sentiment="False" />
+        </aspectTerms>
+    </sentence>
+</sentences>
