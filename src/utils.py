@@ -41,6 +41,69 @@ def prompt_for_polarity_label(context, polarity_expr):
     return prompt
 
 
+def rvisa_prompt_th_re(context: str, target: str) -> str:
+    context = ' '.join((context or '').split())
+    target = (target or '').strip()
+    return (
+        f'Given the sentence "{context}", what is the sentiment polarity towards {target}, why? '
+        "Let’s think step by step. "
+        f"The mentioned aspect towards {target} is about ... "
+        f"The underlying opinion towards {target} is about ... "
+        f"Therefore, the sentiment polarity towards {target} is ..."
+    )
+
+
+def rvisa_prompt_th_ra(context: str, target: str, gold_label: str) -> str:
+    context = ' '.join((context or '').split())
+    target = (target or '').strip()
+    gold_label = (gold_label or '').strip()
+    return (
+        f'Given the sentence "{context}", the sentiment polarity towards {target} is {gold_label}, why? '
+        "Let’s think step by step. "
+        f"The mentioned aspect towards {target} is about ... "
+        f"The underlying opinion towards {target} is about ... "
+        f"Therefore, the sentiment polarity towards {target} is ..."
+    )
+
+
+def rvisa_prompt_reasoning(context: str, target: str) -> str:
+    context = ' '.join((context or '').split())
+    target = (target or '').strip()
+    return f'Given the sentence "{context}", what is the sentiment polarity towards {target}, why? Explain your reasoning.'
+
+
+def rvisa_prompt_zero_cot(context: str, target: str) -> str:
+    context = ' '.join((context or '').split())
+    target = (target or '').strip()
+    return f'Given the sentence "{context}", what is the sentiment polarity towards {target}? Let’s think step by step.'
+
+
+def rvisa_prompt_verification(rationale: str) -> str:
+    rationale = (rationale or '').strip()
+    return (
+        "Given the rationale below, please verify whether it is reasonable. Return True or False.\n\n"
+        + rationale
+    )
+
+
+def parse_polarity_fcfs(text: str, label_list=None):
+    """Parse first-mentioned polarity label (FCFS). Returns index or 0 if unknown."""
+    if label_list is None:
+        label_list = ['positive', 'negative', 'neutral']
+    if not text:
+        return 0
+    lower = text.lower()
+    hits = []
+    for idx, lb in enumerate(label_list):
+        pos = lower.find(lb)
+        if pos >= 0:
+            hits.append((pos, idx))
+    if not hits:
+        return 0
+    hits.sort(key=lambda x: x[0])
+    return hits[0][1]
+
+
 def set_seed(seed):
     torch.manual_seed(seed)
     torch.cuda.manual_seed(seed)

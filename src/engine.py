@@ -354,3 +354,172 @@ class ThorTrainer:
             if isinstance(v, float):
                 res[k] = round(v * 100, 3)
         return res
+
+
+class RVISATrainer:
+    """RVISA stage-2 multi-task fine-tuning.
+
+    Batch fields are provided by MyDataLoader when config.reasoning == 'rvisa'.
+    We optimize a weighted sum of:
+      - prediction loss (label)
+      - explanation loss (rationale generation)
+      - verification loss (True/False)
+    and evaluate using the prediction task only.
+    """
+
+    def __init__(self, model, config, train_loader, valid_loader, test_loader) -> None:
+        self.model = model
+        self.config = config
+        self.train_loader, self.valid_loader, self.test_loader = train_loader, valid_loader, test_loader
+        self.save_name = os.path.join(config.target_dir, config.save_name)
+        self.final_score = 0
+        self.final_res = ''
+        self.scores, self.lines = [], []
+        self.re_init()
+
+    def re_init(self):
+        self.preds, self.golds = defaultdict(list), defaultdict(list)
+        self.keys = ['total', 'explicits', 'implicits']
+
+    def _task_loss(self, input_ids, input_masks, output_ids, output_masks):
+        return self.model(
+            input_ids=input_ids,
+            input_masks=input_masks,
+            output_ids=output_ids,
+            output_masks=output_masks,
+        )
+
+    def train(self):
+        best_score, best_iter = 0, -1
+        for epoch in tqdm(range(self.config.epoch_size)):
+            self.model.global_epoch = epoch
+            self.global_epoch = epoch
+            self.train_step()
+            result = self.evaluate_step(mode='valid')
+            self.re_init()
+            score = result['default']
+
+            self.add_instance(result)
+
+            if score > best_score:
+                best_score, best_iter = score, epoch
+                save_name = self.save_name.format(epoch)
+
+                if not os.path.exists(self.config.target_dir):
+                    os.makedirs(self.config.target_dir)
+                torch.save({'epoch': epoch, 'model': self.model.cpu().state_dict(), 'best_score': best_score}, save_name)
+                self.model.to(self.config.device)
+            elif epoch - best_iter > self.config.patience:
+                print("Not upgrade for {} steps, early stopping...".format(self.config.patience))
+                break
+            self.model.to(self.config.device)
+
+        res = self.final_evaluate(best_iter)
+        score = res['default']
+        self.add_instance(res)
+        self.final_score, self.final_res = score, res
+
+    def train_step(self):
+        self.model.train()
+        train_data = tqdm(self.train_loader, total=self.train_loader.data_length)
+        losses = []
+
+        alpha = float(getattr(self.config, 'rvisa_alpha', 0.3))
+        gamma = float(getattr(self.config, 'rvisa_gamma', 0.3))
+        use_ver = bool(getattr(self.config, 'rvisa_use_verification', True))
+        use_exp = bool(getattr(self.config, 'rvisa_use_explanation', True))
+
+        if not use_ver:
+            gamma = 0.0
+        if not use_exp:
+            alpha = 0.0
+        if alpha + gamma > 1.0:
+            raise ValueError(f"Invalid rvisa weights: alpha+gamma={alpha+gamma} > 1")
+
+        for _, data in enumerate(train_data):
+            loss_pred = self._task_loss(
+                data['pred_input_ids'],
+                data['pred_input_masks'],
+                data['pred_output_ids'],
+                data['pred_output_masks'],
+            )
+            loss = (1.0 - alpha - gamma) * loss_pred
+
+            if use_exp:
+                loss_exp = self._task_loss(
+                    data['exp_input_ids'],
+                    data['exp_input_masks'],
+                    data['exp_output_ids'],
+                    data['exp_output_masks'],
+                )
+                loss = loss + alpha * loss_exp
+
+            if use_ver:
+                loss_ver = self._task_loss(
+                    data['ver_input_ids'],
+                    data['ver_input_masks'],
+                    data['ver_output_ids'],
+                    data['ver_output_masks'],
+                )
+                loss = loss + gamma * loss_ver
+
+            losses.append(loss.item())
+            loss.backward()
+            nn.utils.clip_grad_norm_(self.model.parameters(), self.config.max_grad_norm)
+
+            description = "Epoch {}, loss:{:.4f}".format(self.global_epoch, np.mean(losses))
+            train_data.set_description(description)
+
+            self.config.optimizer.step()
+            self.config.scheduler.step()
+            self.model.zero_grad()
+
+    def evaluate_step(self, dataLoader=None, mode='valid'):
+        self.model.eval()
+        dataLoader = self.valid_loader if dataLoader is None else dataLoader
+        dataiter = dataLoader
+        for _, data in tqdm(enumerate(dataiter), total=dataLoader.data_length):
+            with torch.no_grad():
+                output = self.model.evaluate(input_ids=data['pred_input_ids'], input_masks=data['pred_input_masks'])
+                self.add_output(data, output)
+        result = self.report_score(mode=mode)
+        return result
+
+    def final_evaluate(self, epoch=0):
+        PATH = self.save_name.format(epoch)
+        self.model.load_state_dict(torch.load(PATH, map_location=self.config.device)['model'])
+        self.model.eval()
+        res = self.evaluate_step(self.test_loader, mode='test')
+        self.add_instance(res)
+        return res
+
+    def add_instance(self, res):
+        self.lines.append(res)
+
+    def add_output(self, data, output):
+        is_implicit = data['implicits'].tolist()
+        gold = data['input_labels']
+        for i, key in enumerate(self.keys):
+            if i == 0:
+                self.preds[key] += output
+                self.golds[key] += gold.tolist()
+            else:
+                if i == 1:
+                    ids = np.argwhere(np.array(is_implicit) == 0).flatten()
+                else:
+                    ids = np.argwhere(np.array(is_implicit) == 1).flatten()
+                self.preds[key] += [output[w] for w in ids]
+                self.golds[key] += [gold.tolist()[w] for w in ids]
+
+    def report_score(self, mode='valid'):
+        res = {}
+        res['Acc_SA'] = accuracy_score(self.golds['total'], self.preds['total'])
+        res['F1_SA'] = f1_score(self.golds['total'], self.preds['total'], labels=[0, 1, 2], average='macro')
+        res['F1_ESA'] = f1_score(self.golds['explicits'], self.preds['explicits'], labels=[0, 1, 2], average='macro')
+        res['F1_ISA'] = f1_score(self.golds['implicits'], self.preds['implicits'], labels=[0, 1, 2], average='macro')
+        res['default'] = res['F1_SA']
+        res['mode'] = mode
+        for k, v in res.items():
+            if isinstance(v, float):
+                res[k] = round(v * 100, 3)
+        return res

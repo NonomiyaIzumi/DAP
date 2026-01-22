@@ -25,3 +25,19 @@ adam_epsilon: 1e-8
 warmup_steps: 0
 weight_decay: 0.01
 seed: 42
+
+# Remote inference (Hugging Face Inference API) for Flan-T5
+# Note: this mode does NOT support training; use for zero-shot/eval only.
+use_hf_inference: false
+hf_model_id: ''           # e.g. google/flan-t5-xxl (empty = model_path)
+hf_api_key: ''            # prefer env: HF_API_KEY or HUGGINGFACEHUB_API_TOKEN
+hf_timeout: 60
+hf_max_new_tokens: 64
+
+# RVISA (two-stage reasoning + verification) stage-2 defaults
+rvisa_alpha: 0.3
+rvisa_gamma: 0.3
+rvisa_use_verification: true
+rvisa_use_explanation: true
+# Prompt style used for the explanation task input (should match the stage-1 generator)
+rvisa_prompt_style: th-re  # th-re | th-ra | reasoning | zero-cot

@@ -1,18 +1,19 @@
 import argparse
 import yaml
 import torch
-from attrdict import AttrDict
+from types import SimpleNamespace
 import pandas as pd
 
 from src.utils import set_seed, load_params_LLM
 from src.loader import MyDataLoader
 from src.model import LLMBackbone
-from src.engine import PromptTrainer, ThorTrainer
+from src.engine import PromptTrainer, ThorTrainer, RVISATrainer
 
 
 class Template:
     def __init__(self, args):
-        config = AttrDict(yaml.load(open(args.config, 'r', encoding='utf-8'), Loader=yaml.FullLoader))
+        config_dict = yaml.load(open(args.config, 'r', encoding='utf-8'), Loader=yaml.FullLoader)
+        config = SimpleNamespace(**config_dict)
         names = []
         for k, v in vars(args).items():
             setattr(config, k, v)
@@ -37,8 +38,11 @@ class Template:
         elif self.config.reasoning == 'thor':
             print("Choosing thor multi-step infer mode.")
             trainer = ThorTrainer(self.model, self.config, self.trainLoader, self.validLoader, self.testLoader)
+        elif self.config.reasoning == 'rvisa':
+            print("Choosing RVISA multi-task fine-tuning mode.")
+            trainer = RVISATrainer(self.model, self.config, self.trainLoader, self.validLoader, self.testLoader)
         else:
-            raise 'Should choose a correct reasoning mode: prompt or thor.'
+            raise 'Should choose a correct reasoning mode: prompt, thor, or rvisa.'
 
         if self.config.zero_shot == True:
             print("Zero-shot mode for evaluation.")
@@ -55,15 +59,24 @@ class Template:
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-c', '--cuda_index', default=0)
-    parser.add_argument('-r', '--reasoning', default='thor', choices=['prompt', 'thor'],
-                        help='with one-step prompt or multi-step thor reasoning')
-    parser.add_argument('-z', '--zero_shot', action='store_true', default=True,
-                        help='running under zero-shot mode or fine-tune mode')
-    parser.add_argument('-d', '--data_name', default='laptops', choices=['restaurants', 'laptops'],
-                        help='semeval data name')
-    parser.add_argument('-f', '--config', default='./config/config.yaml', help='config file')
-    args = parser.parse_args()
+    # Load configuration from YAML file
+    with open('config/main_config.yaml', 'r', encoding='utf-8') as config_file:
+        config_data = yaml.safe_load(config_file)
+
+    args = argparse.Namespace(
+        cuda_index=config_data['main']['cuda_index'],
+        reasoning=config_data['main']['reasoning'],
+        zero_shot=config_data['main']['zero_shot'],
+        data_name=config_data['main']['data_name'],
+        config=config_data['main']['config'],
+        # RVISA-only fields (optional)
+        rvisa_data_path=config_data['main'].get('rvisa_data_path', ''),
+        rvisa_prompt_style=config_data['main'].get('rvisa_prompt_style', 'th-re'),
+        rvisa_alpha=config_data['main'].get('rvisa_alpha', 0.3),
+        rvisa_gamma=config_data['main'].get('rvisa_gamma', 0.3),
+        rvisa_use_verification=config_data['main'].get('rvisa_use_verification', True),
+        rvisa_use_explanation=config_data['main'].get('rvisa_use_explanation', True),
+    )
+
     template = Template(args)
     template.forward()

@@ -18,6 +18,10 @@
 
 **The pytroch implementation of the ACL23 paper [Reasoning Implicit Sentiment with Chain-of-Thought Prompting](https://arxiv.org/abs/2305.11255)**
 
+This workspace also includes an implementation path to reproduce the RVISA paper in the repo PDF (`2407.02340v1.pdf`):
+- Stage 1: DO LLM generates rationales (TH-RE / TH-RA) + answer-based verification signal
+- Stage 2: ED backbone (Flan-T5) multi-task fine-tuning with $(\alpha,\gamma)$ and verification task
+
 ----------
  ### 🎉 Visit the project page: [THOR-ISA](http://haofei.vip/THOR/)
 
@@ -32,6 +36,7 @@
   - [LLMs](#llm)
   - [Run with Flan-T5](#runt5)
   - [Run with GPT-3.5](#GPT)
+  - [Reproduce RVISA](#rvisa)
   - [Suggestions](#suggest)
 - [MISC](#misc)
 
@@ -103,24 +108,26 @@ A. Use the Flan-T5 as the backbone LLM reasoner:
 
 B. Evaluate with OpenAI [GPT-3.5](https://platform.openai.com/docs/models/gpt-3-5)
 
+C. Optional: Use Hugging Face Inference API for Flan-T5 (no local weights). Set in [config/config.yaml](config/config.yaml):
+- `use_hf_inference: true`
+- `hf_model_id: google/flan-t5-xxl` (or any hosted Flan-T5)
+- Set env `HF_API_KEY` or `HUGGINGFACEHUB_API_TOKEN`
+
+Note: HF Inference API mode supports zero-shot/eval only (no training).
+
 ----------
 ### Training and Evaluating with Flan-T5<a name="runt5" />
 
-Use the [main.py](main.py) script with command-line arguments to run the Flan-T5-based THOR system. 
+Use the [main.py](main.py) script. This repo now expects runtime settings from `config/main_config.yaml`.
 
+
+Configure `config/main_config.yaml` (see `config/main_config.example.yaml`), then run:
 
 ```bash
-python main.py -c <cuda_index> -r [thor|prompt] -d [restaurants|laptops] -z [True|False] -f <config_file>
+python main.py
 ```
-Some important arguments:
 
-- `-c`, `--cuda_index`: Index of the GPU to use for computation (default is 0).
-- `-d`, `--data_name`: Name of the dataset. Choices are 'restaurants' or 'laptops' (default is 'laptops').
-- `-r`, `--reasoning`: Specifies the reasoning mode, with one-step prompt or multi-step thor mode (default is 'thor').
-- `-z`, `--zero_shot`: If True, the system directly performs zero-shot prediction, otherwise run the fine-tuning on the train set (default is True).
-- `-f`, `--config`: Specifies the location of [config.yaml](config%2Fconfig.yaml) file.
-
-Configurate more parameters in [config.yaml](config%2Fconfig.yaml) file.
+Core settings live in `config/config.yaml`.
 
 
 ----------
@@ -135,6 +142,40 @@ python run_gpt_eval.py -k <openai_key> -d [restaurants|laptops]
 
 Indicating your openai key. 
 The reasoning traces and outputs of GPT for all instances are saved in `output_<data_name>.txt` file.
+
+----------
+
+### Reproduce RVISA<a name="rvisa" />
+
+RVISA is the two-stage framework described in the paper PDF (`2407.02340v1.pdf`).
+
+1) Install deps and set your OpenAI key (recommended via environment variable):
+
+```bash
+setx OPENAI_API_KEY "<your_key>"
+```
+
+2) Stage 1: generate rationales + verification signal (writes a PKL under `data/preprocessed/`):
+
+```bash
+python scripts/generate_rvisa_stage1.py --data-name restaurants --prompt-style th-re --teacher-model gpt-3.5-turbo
+```
+
+3) Stage 2: set `config/main_config.yaml`:
+- `main.reasoning: rvisa`
+- `main.zero_shot: false`
+- `main.rvisa_data_path: data/preprocessed/<the_file_from_stage1>.pkl`
+- (optional) `main.rvisa_alpha`, `main.rvisa_gamma`, `main.rvisa_use_verification`
+
+Then run:
+
+```bash
+python main.py
+```
+
+Ablations from the paper map to:
+- w/o VE: set `main.rvisa_use_verification: false`
+- w/o VE and TH: generate stage-1 data with `--prompt-style reasoning` (or `zero-cot`) and set `main.rvisa_use_verification: false`
 
 ----------
 
