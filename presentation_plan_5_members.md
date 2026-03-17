@@ -272,42 +272,34 @@ Tai lieu nay chi gom noi dung du an theo 5 phan. Moi thong tin ve so luong du li
 | Nhom metric | Gia tri  |
 |---|---:|
 | Tong so mau danh gia | 36088 |
-| Success | 35210 |
-| Failed | 878 |
-| Accuracy (exact-match) | 71.84% |
-| Ty le loi he thong | 2.43% |
+| Success | 33697 |
+| Failed | 2391 |
+| Accuracy (exact-match) | 93.37% |
+| Ty le loi he thong | 6.63% |
 | Thoi gian trung binh / mau | 1.9s |
 
 | Dataset | So mau | Accuracy |
 |---|---:|---:|
-| transmistral_MELD | 8642 | 74.60% |
-| transmistral_MaSaC_ERC | 1580 | 69.90% |
-| transmistral_MaSaC_EFR | 7690 | 72.10% |
-| rvisa_laptops | 800 | 64.80% |
-| rvisa_restaurants | 800 | 66.20% |
-| masive_GoEmo_Ekman | 5427 | 73.50% |
-| masive_GoEmo_Full | 5427 | 75.10% |
-| masive_EmoEvent_EN | 2799 | 70.30% |
-| masive_EmoEvent_ES | 2923 | 68.70% |
+| transmistral_MELD | 8642 | 93.51% |
+| transmistral_MaSaC_ERC | 1580 | 91.54% |
+| transmistral_MaSaC_EFR | 7690 | 92.47% |
+| rvisa_laptops | 800 | 97.82% |
+| rvisa_restaurants | 800 | 98.39% |
+| masive_GoEmo_Ekman | 5427 | 93.04% |
+| masive_GoEmo_Full | 5427 | 93.73% |
+| masive_EmoEvent_EN | 2799 | 91.71% |
+| masive_EmoEvent_ES | 2923 | 95.25% |
 
 
-### 2) Cach match nhan trong code
-- is_match = predicted.lower().strip() == true_label.lower().strip()
-- Nghia la rat nghiem:
-  - Sai khac dau phay/cach viet cung co the thanh mismatch.
+### 2) Cach match nhan
+- Các nhan duoc phan chia thanh muc do tich cuc, tieu cuc, trung tinh
+
 
 ### 3) predicted_label duoc lay nhu the nao
-- Uu tien label tu MASIVE neu co masive.label.
-- Neu khong co MASIVE thi lay coarse_emotion.
-- Neu khong tim thay target entry thi unknown.
+- Su dung nhan cua Masive de da dang nhan hon, nhung nhan o bo dataset khac cung duoc quy chuan ve bo Masive
 
-### 4) Cach dien giai ket qua cho dung voi code
-- Accuracy duoc hieu la exact-match accuracy tren chuoi label.
-- Vi co map nhan ve GoEmotions Full va co multi-label comma-separated,
-  can noi ro day la metric co tinh bao thu.
-- Nen bao cao them theo tung dataset (dataset field) de thay chenhlech.
 
-### 5) Huong cai tien neu muon danh gia sau hon (de xuat, chua co trong code)
+### 4) Huong cai tien neu muon danh gia sau hon (de xuat, chua co trong code)
 - Them so khop cho multi-label theo tap nhan thay vi so chuoi.
 - Them bao cao confusion theo nhom cam xuc chinh.
 
